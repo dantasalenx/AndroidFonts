@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:LabelFonts" x:Class="LabelFonts.MainPage">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label 
+            Text="Japao" 
+            FontSize="10"
+            HorizontalOptions="Center" 
+            VerticalOptions="CenterAndExpand"
+            x:Name="label_01"
+            FontFamily="OpenSans-Bold.ttf#OpenSans-Bold"/>
+        
+        <Label 
+            Text="Canada" 
+            FontSize="10"
+            HorizontalOptions="Center" 
+            VerticalOptions="CenterAndExpand"
+            x:Name="label_02"
+            FontFamily="Poppins-Black.ttf#Poppins-Black"/>
+        
+        <Label 
+            Text="Brasil!" 
+            FontSize="10"
+            HorizontalOptions="Center" 
+            VerticalOptions="CenterAndExpand"
+            x:Name="label_03"
+            FontFamily="Raleway-Black.ttf#Raleway-Black"/>
+          
+        <Button 
+            Text="Mudar Fontes"
+            HorizontalOptions="Center" 
+            VerticalOptions="CenterAndExpand"
+            Clicked="MudarFonte"
+            />
+        
+    </StackLayout>
+</ContentPage>

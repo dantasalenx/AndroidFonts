@@ -1,0 +1,11 @@
+/Users/aluno/Projects/LabelFonts/LabelFonts/bin/Debug/netstandard2.0/LabelFonts.deps.json
+/Users/aluno/Projects/LabelFonts/LabelFonts/bin/Debug/netstandard2.0/LabelFonts.dll
+/Users/aluno/Projects/LabelFonts/LabelFonts/bin/Debug/netstandard2.0/LabelFonts.pdb
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/LabelFonts.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/LabelFonts.AssemblyInfoInputs.cache
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/LabelFonts.AssemblyInfo.cs
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/LabelFonts.dll
+/Users/aluno/Projects/LabelFonts/LabelFonts/obj/Debug/netstandard2.0/LabelFonts.pdb
